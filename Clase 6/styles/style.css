@@ -1,0 +1,26 @@
+/*selector universal*/
+*{
+    color: black !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*selector universal*/
+
+
+button{
+    color: red;
+}
+h1{
+    color: rgb(0, 68, 255);
+}
+.especial{
+    color: rgb(8, 10, 10);
+}
+#btn-super-especial{
+    color: rgb(10, 184, 19);
+}
+.super-especial{
+    background-color: rgb(231, 27, 27);
+}
+
+
+
